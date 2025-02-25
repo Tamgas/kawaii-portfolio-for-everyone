@@ -19,7 +19,7 @@ Frontend: React, Tailwind CSS / Styled Components
 2️⃣ Клонируйте себе локально
 
 bash
-git clone https://github.com/username/portfolio-template.git  
+(https://github.com/Tamgas/kawaii-portfolio-for-everyone)
 cd portfolio-template  
 npm install  
 npm run dev 
